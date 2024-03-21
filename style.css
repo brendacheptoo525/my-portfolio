@@ -4,43 +4,45 @@ body {
     color: black;
     padding: 20px;
 }
-h1 {
+header {
 
     background-color: white;
     color: brown;
-    text-align: center;
+    text-align: justify;
+    font-size: 50px;
 }
 
 h2, h3, h4, h5 {
-    text-align: center;
-    color: blueviolet;
+    text-align: justify;
+    color: rgb(27, 39, 204);
+    font-size: 40px;
 }
 
 p {
 
-    font-size: medium;
-    text-align: center;
+    font-size: large;
+    text-align: justify;
     width: 800px;
-    margin-left: auto;
-    margin-right: auto;
 }
+
 #Hobbies ol{
-    font-size: medium;
-    text-align: center;
+    font-size: large;
+    text-align: justify;
     width: 800px;
-    margin-left: auto;
-    margin-right: auto;
+    
 }
 
 img  {
     display: block;
-    margin-left: auto;
-    margin-right: auto;
+    margin-left: 0cm;
+    margin-right: 0cm;
+    width: 400;
+    height: 400;
     
 }
 
 footer {
-    text-align: center;
+    text-align: justify;
     padding: 10px;
     background-color: red;
     color: black;
